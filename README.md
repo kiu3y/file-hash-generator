@@ -235,8 +235,8 @@ MD5 and SHA-1 are included for compatibility and learning purposes. For security
 
 **Kurlis**
 
-- Email: [kiuby.dev@gmail.com](mailto:kiuby.dev@gmail.com)
-- GitHub: [@your-username](https://github.com/your-username) <!-- Update with your GitHub profile -->
+- Email: 
+- GitHub: 
 
 ---
 
